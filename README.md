@@ -1,7 +1,5 @@
 # 🚀 SonarQube: Code Quality & Security Analysis
 
-![SonarQube Scan](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9icDhtc3A3cmR4M21qemoyczR5NjhyYTh6eHh6b21mcHc4N2FodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H4wEC5G8boQm6/giphy.gif)
-
 
 ## 📌 Introduction
 
